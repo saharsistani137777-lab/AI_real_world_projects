@@ -24,6 +24,9 @@ Each project includes notebooks, sample data, and practical results.
    - Skills: OpenCV, TensorFlow/PyTorch, YOLO/Faster-RCNN  
 
 ---
+## Sample Output
+
+![Bitcoin Price Plot](images/price_plot.png)
 
 ## ⚡ How to Use
 
