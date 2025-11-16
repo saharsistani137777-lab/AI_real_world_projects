@@ -26,7 +26,7 @@ Each project includes notebooks, sample data, and practical results.
 ---
 ## Sample Output
 
-![Bitcoin Price Plot](images/price_plot.png)
+![Bitcoin Price Plot](crypto_price_prediction/images/price_plot.png)
 
 ## ⚡ How to Use
 
