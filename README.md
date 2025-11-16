@@ -29,4 +29,5 @@ Each project includes notebooks, sample data, and practical results.
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Real-World-Projects.git
+git clone https://github.com/saharsistani137777-lab/AI-Real-World-Projects.git
+fix clone link
